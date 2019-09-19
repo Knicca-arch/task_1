@@ -1,0 +1,34 @@
+.form {
+    background-color: aquamarine;
+    width: 70%;
+    height: 500px;
+    margin: auto;
+    padding: 20px 50px 10px;
+    box-sizing: border-box;
+    border: 2px red solid;
+}
+
+.event_name {
+    border-bottom: 2px gray solid;
+}
+
+.font_gray {
+    color: gray;
+}
+
+.font_size {
+    font-size: 20px;
+}
+
+.border_red {
+    border: none;
+    border-bottom: 2px red solid;
+    
+}
+.data_width{
+    width:60%;
+    margin-right: 10%;
+}
+.time_width {
+    float: right;
+}
